@@ -12,9 +12,9 @@ For beginning, you should install git and python. If it already exists, open you
 
 The project consists of three files: 
 
-1) lib_manager.py - main file
-2) book.py - file which stores a Book class implementation
-3) library.py - file which stores a Lib class implementation
+1. `lib_manager.py` - main file
+2. `book.py` - file which stores a Book class implementation
+3. `library.py` - file which stores a Lib class implementation
 
 In your terminal switch to project directory. Then, run the file lib_manager.py:
 
