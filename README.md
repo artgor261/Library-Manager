@@ -4,7 +4,7 @@ This concole application allows you to manage your own virtual library. You can 
 
 ## Install
 
-For beginning, you should install git and python. If it already exists, open your terminal and switch to particular directory wich you want by `cd [path]` command. Then, use the following command:
+For beginning, you should install git and python. If it already exists, open your terminal and switch to particular directory which you want by `cd [path]` command. Then, use the following command:
 
 `git clone https://github.com/artgor261/Library-Manager.git`
 
@@ -82,6 +82,49 @@ Title: Animal Farm: A Fairy Story,
 Author: George Orwell,
 Year: 1945,
 Status: True
+```
+
+## all
+
+Print `all` in terminal. The program will return all objects from json file. For example:
+
+```
+Print command: all
+
+
+id: 0
+title: War and Peace
+author: Lev Tolstoy
+year: 1863
+status: True
+
+
+id: 1
+title: 1984
+author: George Orwell
+year: 1949
+status: True
+
+
+id: 2
+title: Animal Farm: A Fairy Story
+author: George Orwell
+year: 1945
+status: True
+
+
+id: 3
+title: Das Capital
+author: Carl Marx
+year: 1867
+status: True
+
+
+id: 4
+title: Fahrenheit 451
+author: Ray Bradbury
+year: 1953
+status: True
 ```
 
 ## status
