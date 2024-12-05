@@ -12,12 +12,12 @@ Or you can install this project like `zip-archieve` by `GitHub` GUI on the proje
 
 ## Usage
 
-The project consists of three files: 
+The project consists of four files: 
 
 1. `lib_manager.py` - main file
 2. `book.py` - file which stores a Book class implementation
 3. `library.py` - file which stores a Library class implementation
-4. `test.json` - test json file which consists of 5 objects
+4. `test.json` - test json file which includes 5 books
 
 Switch to project directory in your terminal. Then, run the file `lib_manager.py`:
 
@@ -38,7 +38,7 @@ Then you can choose some operations:
 
 ### add
 
-Print add in terminal. You should input three book's features: `title`, `author` and `year`. For example:
+Print `add` in terminal. You should input three book's features: `title`, `author` and `year`. For example:
 
 ```
 Print command: add
@@ -51,7 +51,7 @@ Then, you can check the json file. It will be increased by one object.
 
 ### del
 
-Print del. You should input book's ID. Then, check your json file. The item will be deleted. For example:
+Print `del`. You should input book's ID. Then, check your json file. The item will be deleted. For example:
 
 ```
 Print command: del
@@ -60,7 +60,7 @@ Print book's ID: 2
 
 ### search
 
-Print search in terminal. Then, you should input a keyword or list of keywords. The program will be searching books based on this string only by values of three book's features such as `title`, `author` and `year`. For example:
+Print `search` in terminal. Then, you should input a keyword or list of keywords. The program will be searching books based on this string only by values of three book's features such as `title`, `author` and `year`. For example:
 
 ```
 Print command: search
@@ -86,7 +86,7 @@ Status: True
 
 ## status
 
-After printing status in terminal, you should input the book's id. Then, the program will automatically change the status. For example:
+After printing `status` in terminal, you should input the book's id. Then, the program will automatically change the status. For example:
 
 `Print book's ID: 2`
 
