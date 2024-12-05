@@ -8,7 +8,7 @@ For beginning, you should install git and python. If it already exists, open you
 
 `git clone https://github.com/artgor261/Library-Manager.git`
 
-Or you can install this project like `zip-archieve` by GitHub GUI on the project page.
+Or you can install this project like `zip-archieve` by `GitHub` GUI on the project page.
 
 ## Usage
 
@@ -16,7 +16,7 @@ The project consists of three files:
 
 1. `lib_manager.py` - main file
 2. `book.py` - file which stores a Book class implementation
-3. `library.py` - file which stores a Lib class implementation
+3. `library.py` - file which stores a Library class implementation
 
 Switch to project directory in your terminal. Then, run the file `lib_manager.py`:
 
