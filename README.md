@@ -17,7 +17,7 @@ The project consists of three files:
 1. `lib_manager.py` - main file
 2. `book.py` - file which stores a Book class implementation
 3. `library.py` - file which stores a Library class implementation
-4. `test.json` - test json file consists of 5 objects
+4. `test.json` - test json file which consists of 5 objects
 
 Switch to project directory in your terminal. Then, run the file `lib_manager.py`:
 
