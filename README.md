@@ -4,7 +4,7 @@ This concole application allows you to manage your own virtual library. You can 
 
 ## Install
 
-For beginning, you should install git and python. If it already exists, open your terminal and switch to particular directory wich you want by cd [path] command. Then, use the following command:
+For beginning, you should install git and python. If it already exists, open your terminal and switch to particular directory wich you want by `cd [path]` command. Then, use the following command:
 
 `git clone https://github.com/artgor261/Library-Manager.git`
 
