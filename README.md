@@ -32,7 +32,7 @@ Then you can choose some operations:
 2) `del` - deleting the book from json file
 3) `search` - searching the book or sequence of books based on printed search string
 4) `all` - printing all books from json file
-5) `status` - change status of particular book. true equal exist, false equal don't exist.
+5) `status` - change status of particular book. `true` equal `exist`, `false` equal `don't exist`.
 6) `end` - quit the program
 
 ### add
