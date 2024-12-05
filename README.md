@@ -8,6 +8,8 @@ For beginning, you should install git and python. If it already exists, open you
 
 `git clone https://github.com/artgor261/Library-Manager.git`
 
+Or you can install this project like `zip-archieve` by GitHub GUI on the project page.
+
 ## Usage
 
 The project consists of three files: 
