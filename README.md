@@ -129,7 +129,7 @@ status: True
 
 ## status
 
-After printing `status` in terminal, you should input the book's id. Then, the program will automatically change the status. For example:
+After printing `status` in terminal, you have to input the book's id. Then, the program will automatically change the status. For example:
 
 `Print book's ID: 2`
 
